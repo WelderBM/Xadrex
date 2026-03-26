@@ -9,5 +9,11 @@ int main() {
     }
     printf("direita\n");
 
+    //movimento do bispo
+    // movimento = printf(acima)
+    // segundomMovimento = printf(direita)
+    printf("acima\n");
+    printf("direita\n");
+
     return 0;
 }
